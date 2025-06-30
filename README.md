@@ -1,6 +1,6 @@
-# JavaLibraryTemplate
+# FSManagementExtended
 
-JavaLibraryTemplate - шаблон java-библиотеки.
+FSManagementExtended - набор дополнительных типов объектов для [FSManagement](https://github.com/Vladislav117/FSManagement).
 
 ## Добавление зависимости
 
@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Vladislav117:JavaLibraryTemplate:0.0.0'
+    implementation 'com.github.Vladislav117:FSManagementExtended:0.0.0'
 }
 ```
 
@@ -28,4 +28,6 @@ dependencies {
 
 ## Использование
 
-Для использования шаблона необходимо адаптировать его.
+```java
+// Будет добавлено позже
+```
